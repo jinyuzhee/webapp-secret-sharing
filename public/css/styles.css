@@ -3,6 +3,14 @@ body {
   background-color: #E8ECEF;
 }
 
+h5 {
+  margin-bottom: 20px;
+}
+
+hr {
+  margin: 20px;
+}
+
 .centered {
     padding-top: 200px;
     text-align: center;
@@ -12,5 +20,5 @@ body {
   text-align: center;
   font-size: 2rem;
   color: #fff;
-  background-color: #000;
+  background-color: #292929;
 }
