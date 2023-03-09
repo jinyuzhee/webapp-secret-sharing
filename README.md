@@ -10,3 +10,4 @@ This website is built using Node.js, MongoDB, and OAuth 2.0. Users can log in vi
 </ul>
 
 
+<img src="https://static.wixstatic.com/media/dcaec5_06cac2df9e9d4c7084bb355a1635b714~mv2.gif" alt="Example GIF">
